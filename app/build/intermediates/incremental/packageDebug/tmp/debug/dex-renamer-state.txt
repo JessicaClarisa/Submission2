@@ -1,0 +1,4 @@
+#Fri Dec 11 14:51:16 ICT 2020
+base.0=D\:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

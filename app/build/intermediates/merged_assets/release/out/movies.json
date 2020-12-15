@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "title": "Alita: Battle Angel (2019)",
+      "poster": "https://image.tmdb.org/t/p/w300/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+      "genre": "Action, Science Fiction, Adventure",
+      "running_time": "2h 2m",
+      "original_language": "English",
+      "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past."
+    },
+    {
+      "title": "Aquaman (2018)",
+      "poster": "https://image.tmdb.org/t/p/w300/wJhqsBTBrWHcuLfU5kHF4Ar4HOL.jpg",
+      "genre": "Action, Adventure, Fantasy",
+      "running_time": "2h 24m",
+      "original_language": "English",
+      "overview": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne."
+    },
+    {
+      "title": "Cold Pursuit (2019)",
+      "poster": "https://image.tmdb.org/t/p/w300/cO802woIgZsLbOWPUSsleobKyDp.jpg",
+      "genre": "Action, Crime, Thriller",
+      "running_time": "1h 59m",
+      "original_language": "English",
+      "overview": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution."
+    },
+    {
+      "title": "Fantastic Beasts: The Crimes of Grindelwald (2018)",
+      "poster": "https://image.tmdb.org/t/p/w300/2MokCu61LzWw872lPzq1VCJXTD1.jpg",
+      "genre": "Adventure, Fantasy, Drama",
+      "running_time": "2h 14m",
+      "original_language": "English",
+      "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world."
+    },
+    {
+      "title": "Avengers: Infinity War (2018)",
+      "poster": "https://image.tmdb.org/t/p/w300/1uoU4qPZEcOus0rQf8Tz4JCn3cX.jpg",
+      "genre": "Adventure, Action, Science Fiction",
+      "running_time": "2h 29m",
+      "original_language": "English",
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain."
+    },
+    {
+      "title": "Mary Queen of Scots (2018)",
+      "poster": "https://image.tmdb.org/t/p/w300/xzG8TDGEj1yl1gHSnJzOrOM3WNG.jpg",
+      "genre": "Drama, History",
+      "running_time": "2h 4m",
+      "original_language": "English",
+      "overview": "In 1561, Mary Stuart, widow of the King of France, returns to Scotland, reclaims her rightful throne and menaces the future of Queen Elizabeth I as ruler of England, because she has a legitimate claim to the English throne. Betrayals, rebellions, conspiracies and their own life choices imperil both Queens. They experience the bitter cost of power, until their tragic fate is finally fulfilled."
+    },
+    {
+      "title": "Master Z: Ip Man Legacy (2018)",
+      "poster": "https://image.tmdb.org/t/p/w300/9GlO5a0iOUUgFG50IqkP0vLSfS5.jpg",
+      "genre": "Action",
+      "running_time": "1h 47m",
+      "original_language": "Cantonese",
+      "overview": "Following his defeat by Master Ip, Cheung Tin Chi tries to make a life with his young son in Hong Kong, waiting tables at a bar that caters to expats. But it's not long before the mix of foreigners, money, and triad leaders draw him once again to the fight."
+    },
+    {
+      "title": "Mortal Engines (2018)",
+      "poster": "https://image.tmdb.org/t/p/w300/9KZYABU1zCtU7tB3mQJiocHwCc8.jpg",
+      "genre": "Adventure, Fantasy",
+      "running_time": "2h 9m",
+      "original_language": "English",
+      "overview": "Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever."
+    },
+    {
+      "title": "Robin Hood (2018)",
+      "poster": "https://image.tmdb.org/t/p/w300/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg",
+      "genre": "Adventure, Action, Thriller",
+      "running_time": "1h 56m",
+      "original_language": "English",
+      "overview": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown."
+    },
+    {
+      "title": "T-34 (2018)",
+      "poster": "https://image.tmdb.org/t/p/w300/jqBIHiSglRfNxjh1zodHLa9E7zW.jpg",
+      "genre": "War, Action, Drama, History",
+      "running_time": "2h 19m",
+      "original_language": "Russian",
+      "overview": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles."
+    }
+  ]
+}

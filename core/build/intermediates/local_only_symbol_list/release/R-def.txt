@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+id img_item_photo
+id img_item_photo_fav
+id tv_item_detail
+id tv_item_detail_fav
+id tv_item_name
+id tv_item_name_fav
+layout item_row_fav
+layout item_row_film

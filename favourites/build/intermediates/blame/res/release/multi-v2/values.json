@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,5,3,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "17,172,82,125",
+                        "endColumns": "61,41,41,45",
+                        "endOffsets": "74,209,119,166"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,117,159,201",
+                        "endColumns": "61,41,41,45",
+                        "endOffsets": "112,154,196,242"
+                    }
+                }
+            ]
+        }
+    ]
+}

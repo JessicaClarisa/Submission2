@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ata.appbundle"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:7:5-26:19
+14        android:name="com.ata.appbundle.MyApplication"
+14-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:8:9-38
+15        android:allowBackup="true"
+15-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.2] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\279d02e8adca9b816bfd5c296b34fc56\core-1.3.2\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+17-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:22:9-34
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/logo"
+20-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:12:9-41
+21        android:supportsRtl="true"
+21-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+22-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:23:9-32
+23        android:theme="@style/CustomActionBarTheme" >
+23-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:14:9-52
+24        <activity android:name="com.ata.appbundle.view.DetailActivity" />
+24-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:15:9-57
+24-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:15:19-54
+25        <activity android:name="com.ata.appbundle.view.FilmActivity" />
+25-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:16:9-55
+25-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:16:19-52
+26        <activity
+26-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:17:9-25:20
+27            android:name="com.ata.appbundle.view.MainActivity"
+27-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:18:13-46
+28            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+28-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:19:13-69
+29            <intent-filter>
+29-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:20:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:21:17-69
+30-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:21:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:23:17-77
+32-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <service
+36-->[androidx.room:room-runtime:2.2.5] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\93f5c6ed0143b890fdba7018f8ab8a56\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+37            android:name="androidx.room.MultiInstanceInvalidationService"
+37-->[androidx.room:room-runtime:2.2.5] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\93f5c6ed0143b890fdba7018f8ab8a56\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+38            android:directBootAware="true"
+38-->[androidx.room:room-runtime:2.2.5] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\93f5c6ed0143b890fdba7018f8ab8a56\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+39            android:exported="false" />
+39-->[androidx.room:room-runtime:2.2.5] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\93f5c6ed0143b890fdba7018f8ab8a56\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+40
+41        <provider
+41-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efd9384fcab141b1c36e45f00c8fc862\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+42            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+42-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efd9384fcab141b1c36e45f00c8fc862\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+43            android:authorities="com.ata.appbundle.lifecycle-process"
+43-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efd9384fcab141b1c36e45f00c8fc862\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+44            android:exported="false"
+44-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efd9384fcab141b1c36e45f00c8fc862\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+45            android:multiprocess="true" />
+45-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efd9384fcab141b1c36e45f00c8fc862\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+46
+47        <activity android:name="com.ata.appbundle.favourites.FavouriteActivity" >
+47-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:24:9-36:20
+47-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:25:13-74
+48            <intent-filter>
+48-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:27:13-35:29
+49                <action android:name="android.intent.action.VIEW" />
+49-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:28:17-69
+49-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:28:25-66
+50
+51                <category android:name="android.intent.category.DEFAULT" />
+51-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:30:17-76
+51-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:30:27-73
+52
+53                <data
+53-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:32:17-34:50
+54                    android:host="favourites"
+54-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:33:21-46
+55                    android:scheme="appbundle" />
+55-->[:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:34:21-47
+56            </intent-filter>
+57        </activity>
+58    </application>
+59
+60</manifest>
