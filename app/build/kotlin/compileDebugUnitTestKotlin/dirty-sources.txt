@@ -1,9 +1,0 @@
-D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\test\java\com\ata\appbundle\viewmodel\data\FakeFilmRepository.kt
-D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\test\java\com\ata\appbundle\viewmodel\viewmodel\favourite\FavMoviesViewModelTest.kt
-D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\test\java\com\ata\appbundle\viewmodel\viewmodel\favourite\FavTvShowsViewModelTest.kt
-D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\test\java\com\ata\appbundle\viewmodel\viewmodel\MoviesViewModelTest.kt
-D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\test\java\com\ata\appbundle\viewmodel\utils\PagedListUtil.kt
-D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\test\java\com\ata\appbundle\viewmodel\viewmodel\DetailViewModelTest.kt
-D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\test\java\com\ata\appbundle\viewmodel\data\FilmEntityRepositoryTest.kt
-D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\test\java\com\ata\appbundle\viewmodel\viewmodel\TvShowsViewModelTest.kt
-D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\test\java\com\ata\appbundle\viewmodel\utils\LiveDataTestUtil.kt
