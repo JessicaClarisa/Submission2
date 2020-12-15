@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\core\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml",
-        "source": "C:\\Users\\U068936\\.gradle\\caches\\transforms-2\\files-2.1\\789bce343bb009d9def8f492c28e5a1c\\material-1.2.1\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
+        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\core\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\U068936\\.gradle\\caches\\transforms-2\\files-2.1\\789bce343bb009d9def8f492c28e5a1c\\material-1.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
-        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\core\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\U068936\\.gradle\\caches\\transforms-2\\files-2.1\\789bce343bb009d9def8f492c28e5a1c\\material-1.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\core\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml",
+        "source": "C:\\Users\\U068936\\.gradle\\caches\\transforms-2\\files-2.1\\789bce343bb009d9def8f492c28e5a1c\\material-1.2.1\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
     }
 ]

@@ -1,14 +1,14 @@
 [
     {
-        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fav_tv_shows.xml.flat",
-        "source": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\src\\main\\res\\layout\\fragment_fav_tv_shows.xml"
+        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\favourites\\build\\intermediates\\res\\merged\\debug\\layout_activity_favourite.xml.flat",
+        "source": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\favourites\\src\\main\\res\\layout\\activity_favourite.xml"
     },
     {
-        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fav_movies.xml.flat",
-        "source": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\src\\main\\res\\layout\\fragment_fav_movies.xml"
+        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\favourites\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fav_movies.xml.flat",
+        "source": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\favourites\\src\\main\\res\\layout\\fragment_fav_movies.xml"
     },
     {
-        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\build\\intermediates\\res\\merged\\debug\\layout_activity_favourite.xml.flat",
-        "source": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\src\\main\\res\\layout\\activity_favourite.xml"
+        "merged": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\favourites\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fav_tv_shows.xml.flat",
+        "source": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\favourites\\src\\main\\res\\layout\\fragment_fav_tv_shows.xml"
     }
 ]

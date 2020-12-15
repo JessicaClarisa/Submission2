@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:1-28:12
-MERGED from [:core] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [:core] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\05f70f128f4d6b5b7f93fc4092b7ae4c\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\b5d5d739cee5d74057ba44ad75f323bc\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\789bce343bb009d9def8f492c28e5a1c\material-1.2.1\AndroidManifest.xml:17:1-24:12
@@ -58,30 +58,30 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\U068936\.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\35a9c31eccabf0925e4cdda3d5ed0ef7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efac2d9422f6c48ba16bad7e50391351\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\d8f1233375d8460990f828e2811da43f\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:3:5-32
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:7:5-26:19
+ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:7:5-26:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\b5d5d739cee5d74057ba44ad75f323bc\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\b5d5d739cee5d74057ba44ad75f323bc\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\789bce343bb009d9def8f492c28e5a1c\material-1.2.1\AndroidManifest.xml:22:5-20
@@ -104,58 +104,56 @@ MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\U068936\.gradle\caches\t
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\93f5c6ed0143b890fdba7018f8ab8a56\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efd9384fcab141b1c36e45f00c8fc862\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efd9384fcab141b1c36e45f00c8fc862\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
-MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:21:5-37:19
-MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:21:5-37:19
+MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:21:5-35:19
+MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:21:5-35:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\279d02e8adca9b816bfd5c296b34fc56\core-1.3.2\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:11:9-41
 	android:debuggable
-		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:22:9-34
-	android:testOnly
-		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:23:9-32
+		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:21:18-43
 	android:roundIcon
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:12:9-41
 	android:icon
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:14:9-52
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:14:9-52
 	android:name
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:8:9-38
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:8:9-38
 activity#com.ata.appbundle.view.DetailActivity
-ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:15:9-57
+ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:15:9-57
 	android:name
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:15:19-54
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:15:19-54
 activity#com.ata.appbundle.view.FilmActivity
-ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:16:9-55
+ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:16:9-55
 	android:name
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:16:19-52
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:16:19-52
 activity#com.ata.appbundle.view.MainActivity
-ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:17:9-25:20
+ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:17:9-25:20
 	android:theme
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:19:13-69
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:19:13-69
 	android:name
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:18:13-46
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:18:13-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-MERGED from [:core] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:core] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+MERGED from [:core] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:core] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\05f70f128f4d6b5b7f93fc4092b7ae4c\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\05f70f128f4d6b5b7f93fc4092b7ae4c\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\b5d5d739cee5d74057ba44ad75f323bc\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
@@ -262,19 +260,19 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\U068936\.gradle\cac
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efac2d9422f6c48ba16bad7e50391351\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\d8f1233375d8460990f828e2811da43f\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\d8f1233375d8460990f828e2811da43f\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:9:5-47
-MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:9:5-47
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
+MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:9:5-47
+MERGED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:9:5-47
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-		MERGED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+		ADDED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+		MERGED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
+		INJECTED from D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\93f5c6ed0143b890fdba7018f8ab8a56\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
 	android:exported
@@ -294,24 +292,24 @@ ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\U068936\.gradle
 	android:name
 		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\U068936\.gradle\caches\transforms-2\files-2.1\efd9384fcab141b1c36e45f00c8fc862\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
 activity#com.ata.appbundle.favourites.FavouriteActivity
-ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:24:9-36:20
+ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:22:9-34:20
 	android:splitName
-		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:26:13-43
+		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:24:13-43
 	android:name
-		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:25:13-74
+		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:23:13-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:favourites+data:scheme:appbundle
-ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:27:13-35:29
+ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:25:13-33:29
 action#android.intent.action.VIEW
-ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:28:17-69
+ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:28:25-66
+		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:26:25-66
 category#android.intent.category.DEFAULT
-ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:30:17-76
+ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:28:17-76
 	android:name
-		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:30:27-73
+		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:28:27-73
 data
-ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:32:17-34:50
+ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:30:17-32:50
 	android:host
-		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:33:21-46
+		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:31:21-46
 	android:scheme
-		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:34:21-47
+		ADDED from [:favourites] D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\build\intermediates\metadata_feature_manifest\debug\metadata-feature\AndroidManifest.xml:32:21-47

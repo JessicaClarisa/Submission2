@@ -34,6 +34,10 @@ android {
         targetCompatibility 1.8
     }
     dynamicFeatures = [':favourites']
+
+    packagingOptions {
+        exclude 'META-INF/core_release.kotlin_module'
+    }
 }
 
 dependencies {

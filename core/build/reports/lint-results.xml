@@ -14,7 +14,7 @@
         errorLine1="        targetSdkVersion 29"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\build.gradle"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\build.gradle"
             line="18"
             column="9"/>
     </issue>
@@ -28,7 +28,7 @@
         summary="Extraneous text in resource files"
         explanation="Layout resource files should only contain elements and attributes. Any XML text content found in the file is likely accidental (and potentially dangerous if the text resembles XML and the developer believes the text to be functional)">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\src\main\AndroidManifest.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\src\main\AndroidManifest.xml"
             line="6"
             column="5"/>
     </issue>
@@ -44,7 +44,7 @@
         errorLine1="    android:background=&quot;?attr/selectableItemBackground&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\src\main\res\layout\item_row_fav.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\src\main\res\layout\item_row_fav.xml"
             line="5"
             column="5"/>
     </issue>
@@ -60,7 +60,7 @@
         errorLine1="    android:background=&quot;?attr/selectableItemBackground&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\src\main\res\layout\item_row_film.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\src\main\res\layout\item_row_film.xml"
             line="5"
             column="5"/>
     </issue>
@@ -76,7 +76,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\src\main\res\layout\item_row_fav.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\src\main\res\layout\item_row_fav.xml"
             line="10"
             column="6"/>
     </issue>
@@ -92,7 +92,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\src\main\res\layout\item_row_film.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\src\main\res\layout\item_row_film.xml"
             line="10"
             column="6"/>
     </issue>

@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\src\main\AndroidManifest.xml
+8-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\core\src\main\AndroidManifest.xml
+9-->D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\core\src\main\AndroidManifest.xml
 10    /
 11
 12</manifest>

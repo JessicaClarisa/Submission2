@@ -1,23 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\favourites\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 1\\favourites\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\0Work\\Dicoding\\Menjadi Android Developer Expert\\Submission 2 - Github\\favourites\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1,5,3,4",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "17,172,82,125",
-                        "endColumns": "61,41,41,45",
-                        "endOffsets": "74,209,119,166"
+                        "startOffsets": "17,160,70,113",
+                        "endColumns": "49,41,41,45",
+                        "endOffsets": "62,197,107,154"
                     },
                     "to": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "55,117,159,201",
-                        "endColumns": "61,41,41,45",
-                        "endOffsets": "112,154,196,242"
+                        "startOffsets": "55,105,147,189",
+                        "endColumns": "49,41,41,45",
+                        "endOffsets": "100,142,184,230"
                     }
                 }
             ]

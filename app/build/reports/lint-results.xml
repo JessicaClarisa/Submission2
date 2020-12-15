@@ -28,7 +28,7 @@
         errorLine1="        targetSdkVersion 29"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\build.gradle"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\build.gradle"
             line="19"
             column="9"/>
     </issue>
@@ -44,7 +44,7 @@
         errorLine1="    buildToolsVersion &quot;29.0.2&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\build.gradle"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\build.gradle"
             line="14"
             column="5"/>
     </issue>
@@ -62,7 +62,7 @@
         errorLine1="                    android:textSize=&quot;20dp&quot;"
         errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\activity_detail.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\activity_detail.xml"
             line="112"
             column="21"/>
     </issue>
@@ -78,7 +78,7 @@
         errorLine1="    &lt;string name=&quot;error&quot;>An ERROR occured&lt;/string>"
         errorLine2="                                  ^">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\values\strings.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\values\strings.xml"
             line="13"
             column="35"/>
     </issue>
@@ -96,7 +96,7 @@
         errorLine1="    &lt;application"
         errorLine2="     ~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\AndroidManifest.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\AndroidManifest.xml"
             line="7"
             column="6"/>
     </issue>
@@ -112,7 +112,7 @@
         errorLine1="        android:layout_centerInParent=&quot;true&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\src\main\res\layout\fragment_fav_movies.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\src\main\res\layout\fragment_fav_movies.xml"
             line="19"
             column="9"/>
     </issue>
@@ -128,7 +128,7 @@
         errorLine1="        android:layout_centerInParent=&quot;true&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\favourites\src\main\res\layout\fragment_fav_tv_shows.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\favourites\src\main\res\layout\fragment_fav_tv_shows.xml"
             line="19"
             column="9"/>
     </issue>
@@ -144,7 +144,7 @@
         errorLine1="        android:layout_centerInParent=&quot;true&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\fragment_movies.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\fragment_movies.xml"
             line="19"
             column="9"/>
     </issue>
@@ -160,7 +160,7 @@
         errorLine1="        android:layout_centerInParent=&quot;true&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\fragment_tv_shows.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\fragment_tv_shows.xml"
             line="19"
             column="9"/>
     </issue>
@@ -176,7 +176,7 @@
         errorLine1="    android:background=&quot;#FFFFFF&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\activity_main.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\activity_main.xml"
             line="6"
             column="5"/>
     </issue>
@@ -192,7 +192,7 @@
         errorLine1="    &lt;color name=&quot;colorPrimary&quot;>#6200EE&lt;/color>"
         errorLine2="           ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\values\colors.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\values\colors.xml"
             line="3"
             column="12"/>
     </issue>
@@ -208,7 +208,7 @@
         errorLine1="    &lt;color name=&quot;colorPrimaryDark&quot;>#3700B3&lt;/color>"
         errorLine2="           ~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\values\colors.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\values\colors.xml"
             line="4"
             column="12"/>
     </issue>
@@ -224,7 +224,7 @@
         errorLine1="    &lt;color name=&quot;colorAccent&quot;>#03DAC5&lt;/color>"
         errorLine2="           ~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\values\colors.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\values\colors.xml"
             line="5"
             column="12"/>
     </issue>
@@ -240,7 +240,7 @@
         errorLine1="    &lt;color name=&quot;light_grey&quot;>#D7E4E3E4&lt;/color>"
         errorLine2="           ~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\values\colors.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\values\colors.xml"
             line="8"
             column="12"/>
     </issue>
@@ -256,7 +256,7 @@
         errorLine1="    &lt;color name=&quot;dark_grey&quot;>#717171&lt;/color>"
         errorLine2="           ~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\values\colors.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\values\colors.xml"
             line="9"
             column="12"/>
     </issue>
@@ -272,19 +272,19 @@
         errorLine1="&lt;adaptive-icon xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
         errorLine2="^">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml"
             line="2"
             column="1"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-hdpi\ic_launcher_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-hdpi\ic_launcher_round.png"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-mdpi\ic_launcher_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-mdpi\ic_launcher_round.png"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png"/>
     </issue>
 
     <issue
@@ -298,7 +298,7 @@
         errorLine1="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
         errorLine2="^">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\drawable-v24\ic_more_vert_black_24dp.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\drawable-v24\ic_more_vert_black_24dp.xml"
             line="1"
             column="1"/>
     </issue>
@@ -314,19 +314,19 @@
         errorLine1="&lt;adaptive-icon xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
         errorLine2="^">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-anydpi-v26\logo_round.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-anydpi-v26\logo_round.xml"
             line="2"
             column="1"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-hdpi\logo_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-hdpi\logo_round.png"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-mdpi\logo_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-mdpi\logo_round.png"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-xhdpi\logo_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-xhdpi\logo_round.png"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-xxhdpi\logo_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-xxhdpi\logo_round.png"/>
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-xxxhdpi\logo_round.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-xxxhdpi\logo_round.png"/>
     </issue>
 
     <issue
@@ -340,7 +340,7 @@
         errorLine1="    &lt;string name=&quot;hello_blank_fragment&quot;>Hello blank fragment&lt;/string>"
         errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\values\strings.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\values\strings.xml"
             line="7"
             column="13"/>
     </issue>
@@ -356,7 +356,7 @@
         errorLine1="    &lt;string name=&quot;title_favourites&quot;>Favourites&lt;/string>"
         errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\values\strings.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\values\strings.xml"
             line="16"
             column="13"/>
     </issue>
@@ -372,7 +372,7 @@
         url="http://developer.android.com/design/style/iconography.html"
         urls="http://developer.android.com/design/style/iconography.html">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-hdpi\logo.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-hdpi\logo.png"/>
     </issue>
 
     <issue
@@ -386,7 +386,7 @@
         url="http://developer.android.com/design/style/iconography.html"
         urls="http://developer.android.com/design/style/iconography.html">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-mdpi\logo.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-mdpi\logo.png"/>
     </issue>
 
     <issue
@@ -400,7 +400,7 @@
         url="http://developer.android.com/design/style/iconography.html"
         urls="http://developer.android.com/design/style/iconography.html">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-xhdpi\logo.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-xhdpi\logo.png"/>
     </issue>
 
     <issue
@@ -414,7 +414,7 @@
         url="http://developer.android.com/design/style/iconography.html"
         urls="http://developer.android.com/design/style/iconography.html">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-xxhdpi\logo.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-xxhdpi\logo.png"/>
     </issue>
 
     <issue
@@ -428,7 +428,7 @@
         url="http://developer.android.com/design/style/iconography.html"
         urls="http://developer.android.com/design/style/iconography.html">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\mipmap-xxxhdpi\logo.png"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\mipmap-xxxhdpi\logo.png"/>
     </issue>
 
     <issue
@@ -442,7 +442,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\drawable\logo.jpg"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\drawable\logo.jpg"/>
     </issue>
 
     <issue
@@ -456,7 +456,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\drawable\poster_alita.jpg"/>
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\drawable\poster_alita.jpg"/>
     </issue>
 
     <issue
@@ -470,7 +470,7 @@
         errorLine1="                &lt;ImageView"
         errorLine2="                 ~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\activity_detail.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\activity_detail.xml"
             line="24"
             column="18"/>
     </issue>
@@ -486,7 +486,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\activity_main.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\activity_main.xml"
             line="10"
             column="6"/>
     </issue>
@@ -502,7 +502,7 @@
         errorLine1="        android:contentDescription=&quot;Favourite Activity&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\menu\menu.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\menu\menu.xml"
             line="8"
             column="9"/>
     </issue>
@@ -518,7 +518,7 @@
         errorLine1="                    android:paddingLeft=&quot;10dp&quot;"
         errorLine2="                    ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\activity_detail.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\activity_detail.xml"
             line="37"
             column="21"/>
     </issue>
@@ -534,7 +534,7 @@
         errorLine1="                    android:layout_marginRight=&quot;10dp&quot;"
         errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\activity_detail.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\activity_detail.xml"
             line="28"
             column="21"/>
     </issue>
@@ -550,7 +550,7 @@
         errorLine1="                    android:paddingLeft=&quot;10dp&quot;"
         errorLine2="                    ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\activity_detail.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\activity_detail.xml"
             line="37"
             column="21"/>
     </issue>
@@ -566,7 +566,7 @@
         errorLine1="        android:layout_alignParentRight=&quot;true&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\activity_detail.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\activity_detail.xml"
             line="144"
             column="9"/>
     </issue>
@@ -582,7 +582,7 @@
         errorLine1="        android:layout_marginRight=&quot;16dip&quot;/>"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 1\app\src\main\res\layout\activity_detail.xml"
+            file="D:\0Work\Dicoding\Menjadi Android Developer Expert\Submission 2 - Github\app\src\main\res\layout\activity_detail.xml"
             line="146"
             column="9"/>
     </issue>
